@@ -1,14 +1,21 @@
 [![Header](https://github.com/Exigoll/exigoll/blob/master/assets/logo.png)](https://exigoll.github.io/portfolio)
 
 ## I am a beginner React-developer
+<p>I am developing web applications in React. Practicing using Type Script. In my free time I run, go to the gym and meditate. I cook very tasty ^_^ </p>
+<p>At the moment I am looking for a job. It is absolutely not important for me to work in the office or remotely, so I am considering the option of relocation to another city.</p>
+<p>The code I write can be viewed on my GitHub profile.</p>
+<p>The code I write can be viewed on my GitHub profile.
+You can also see examples of my work by clicking on the image on this page.</p>
+
 
 ### Languages
-![JavaSctipt](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) ![TypeSctipt](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaSctipt](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) ![TypeSctipt](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 
-## Frameworks
+### Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
 ### Tools
-![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack) ![Gulp](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp) ![FireBase](https://img.shields.io/badge/-FireBase-black?style=for-the-badge&logo=fireBase&logoColor=blue)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack) ![Gulp](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp) ![FireBase](https://img.shields.io/badge/-FireBase-black?style=for-the-badge&logo=fireBase&logoColor=blue) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/exigoll) [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/exigoll)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.instagram.com/exigoll) [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=blue)](https://www.instagram.com/exigoll)
