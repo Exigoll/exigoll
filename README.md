@@ -14,8 +14,6 @@
 
 ### Portfolio
 <a href="https://exigoll.github.io/portfolio" target="_blank">Click me</a>
-[![Portfolio](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)]([https://t.me/exigoll](https://exigoll.github.io/portfolio))
-
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/exigoll) [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:exigoll@bk.ru)
