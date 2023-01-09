@@ -1,9 +1,8 @@
-## I am a beginner React-developer
-<p>I am developing web applications in React. Practicing using Type Script. In my free time I run, go to the gym and meditate. I cook very tasty ^_^ </p>
+## I am React-developer
+<p>I develop web applications in React using TypeScript / JavaScript</p>
 <p>At the moment I am looking for a job. It is absolutely not important for me to work in the office or remotely, so I am considering the option of relocation to another city.</p>
-<p>The code I write can be viewed on my GitHub profile.</p>
-<p>The code I write can be viewed on my GitHub profile.
-You can also see examples of my work by clicking on the image on this page.</p>
+<p>You can see the code I'm writing on my GitHub profile.</p>
+<p>You can also see examples of my work: https://exigoll.github.io/portfolio</p>
 
 
 ### Languages
