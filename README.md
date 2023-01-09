@@ -4,6 +4,7 @@
 <p>You can see the code I'm writing on my GitHub profile.</p>
 <p>You can also see examples of my work: </p>
 [Portfolio](https://exigoll.github.io/portfolio)
+[Лайфхакер](lifehacker.ru)
 
 ### Languages
 ![JavaSctipt](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) ![TypeSctipt](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
