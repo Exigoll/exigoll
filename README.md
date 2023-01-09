@@ -1,5 +1,3 @@
-[![Header](https://github.com/Exigoll/exigoll/blob/master/assets/logo.png)](https://exigoll.github.io/portfolio)
-
 ## I am a beginner React-developer
 <p>I am developing web applications in React. Practicing using Type Script. In my free time I run, go to the gym and meditate. I cook very tasty ^_^ </p>
 <p>At the moment I am looking for a job. It is absolutely not important for me to work in the office or remotely, so I am considering the option of relocation to another city.</p>
