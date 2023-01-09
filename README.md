@@ -2,7 +2,7 @@
 <p>I develop web applications in React using TypeScript / JavaScript</p>
 <p>At the moment I am looking for a job. It is absolutely not important for me to work in the office or remotely, so I am considering the option of relocation to another city.</p>
 <p>You can see the code I'm writing on my GitHub profile.</p>
-<p>You can also see examples of my work: [Portfolio](https://exigoll.github.io/portfolio)</p>
+<p>You can also see examples of my work: ![Portfolio](https://exigoll.github.io/portfolio)</p>
 
 
 ### Languages
