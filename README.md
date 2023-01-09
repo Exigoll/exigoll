@@ -21,8 +21,5 @@ I am developing applications on the React framework, using JavaScript & TypeScri
 ### Tools
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack) ![Gulp](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp)
 
-### Portfolio
-<a href="https://exigoll.github.io/portfolio" target="_blank">Click me</a>
-
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/exigoll) [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:exigoll@bk.ru)
