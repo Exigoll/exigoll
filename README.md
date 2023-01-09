@@ -13,7 +13,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&logoColor=764ABC) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack) ![Gulp](https://img.shields.io/badge/-Gulp-black?style=for-the-badge&logo=gulp) ![FireBase](https://img.shields.io/badge/-FireBase-black?style=for-the-badge&logo=fireBase&logoColor=blue) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 
 ### Portfolio
-([https://t.me/exigoll](https://exigoll.github.io/portfolio))
+<a href="https://exigoll.github.io/portfolio">Click me</a>
+
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/exigoll) [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:exigoll@bk.ru)
